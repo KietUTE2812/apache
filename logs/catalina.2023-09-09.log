@@ -1,0 +1,44 @@
+09-Sep-2023 08:27:25.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.93
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 23 2023 22:43:14 UTC
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.93.0
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-20
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           20.0.2+9-78
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\conf\logging.properties
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Sep-2023 08:27:25.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\temp
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+09-Sep-2023 08:27:25.478 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-Sep-2023 08:27:25.482 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+09-Sep-2023 08:27:25.522 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Sep-2023 08:27:25.546 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 500 ms
+09-Sep-2023 08:27:25.586 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Sep-2023 08:27:25.590 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.93]
+09-Sep-2023 08:27:25.598 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\docs]
+09-Sep-2023 08:27:25.928 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\docs] has finished in [328] ms
+09-Sep-2023 08:27:25.928 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\examples]
+09-Sep-2023 08:27:26.270 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\examples] has finished in [342] ms
+09-Sep-2023 08:27:26.270 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\host-manager]
+09-Sep-2023 08:27:26.308 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\host-manager] has finished in [38] ms
+09-Sep-2023 08:27:26.308 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\manager]
+09-Sep-2023 08:27:26.342 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\manager] has finished in [34] ms
+09-Sep-2023 08:27:26.342 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\ROOT]
+09-Sep-2023 08:27:26.362 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\huynh\apache-tomcat-8.5.93-windows-x64\apache-tomcat-8.5.93\webapps\ROOT] has finished in [20] ms
+09-Sep-2023 08:27:26.366 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Sep-2023 08:27:26.403 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 857 ms
