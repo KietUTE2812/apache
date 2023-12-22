@@ -157,7 +157,7 @@
         <Realm className="org.apache.catalina.realm.UserDatabaseRealm"
                resourceName="UserDatabase"/>
       </Realm>
-
+      
       <Host name="localhost"  appBase="webapps"
             unpackWARs="true" autoDeploy="true">
 
@@ -173,6 +173,12 @@
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
                prefix="localhost_access_log" suffix=".txt"
                pattern="%h %l %u %t &quot;%r&quot; %s %b" />
+        <Context path="" docBase="ContactBook">
+
+          <!-- Default set of monitored resources -->
+          <WatchedResource>WEB-INF/web.xml</WatchedResource>
+        
+        </Context>
 
       </Host>
     </Engine>
